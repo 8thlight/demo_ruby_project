@@ -5,7 +5,7 @@ This project can be used as a template for the work we do in the apprenticeship 
 ## Setup
 
 1. Clone the project
-1. Install Ruby using your package manager of choice
+1. Install Ruby using your package manager of choice (I like `asdf`, but use whatever)
 1. Run `bundle install`
 
 ## Testing
